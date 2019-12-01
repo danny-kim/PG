@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PG</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="home">Home</string>
+    <string name="report">Report</string>
+    <string name="late_early"><![CDATA[Late & Early]]></string>
+    <string name="take_leave">Take Leave</string>
+    <string name="event">Event</string>
+    <string name="route">Route</string>
+    <string name="fixed_plan">Fixed Plan</string>
 </resources>
